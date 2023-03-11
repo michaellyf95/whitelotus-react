@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/whitelotus-react/static/css/main.bacf300c.css",
-    "main.js": "/whitelotus-react/static/js/main.1dcc55b6.js",
+    "main.js": "/whitelotus-react/static/js/main.3d4aaf05.js",
     "static/media/topvid.mp4": "/whitelotus-react/static/media/topvid.6c2a5e6d79bbeb5f6c2b.mp4",
     "static/media/fa-solid-900.svg": "/whitelotus-react/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/club_1.jpg": "/whitelotus-react/static/media/club_1.146020739f2013b08bca.jpg",
@@ -49,10 +49,10 @@
     "static/media/logo.svg": "/whitelotus-react/static/media/logo.4e98eead97073a60ca3b0648e41b4409.svg",
     "index.html": "/whitelotus-react/index.html",
     "main.bacf300c.css.map": "/whitelotus-react/static/css/main.bacf300c.css.map",
-    "main.1dcc55b6.js.map": "/whitelotus-react/static/js/main.1dcc55b6.js.map"
+    "main.3d4aaf05.js.map": "/whitelotus-react/static/js/main.3d4aaf05.js.map"
   },
   "entrypoints": [
     "static/css/main.bacf300c.css",
-    "static/js/main.1dcc55b6.js"
+    "static/js/main.3d4aaf05.js"
   ]
 }
